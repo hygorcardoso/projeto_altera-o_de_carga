@@ -2,9 +2,9 @@
     class ConnectionFactory {
         private static $host = "localhost";
         private static $port = "5432";
-        private static $db = "unico";
+        private static $db = "storeFull";
         private static $db_user = "postgres";
-        private static $db_password = "FA@2003us";
+        private static $db_password = "postgres";
 
 
         private static $con = null;
